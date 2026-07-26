@@ -29,3 +29,9 @@ python solar_system.py
 This project's code (`solar_system.py`) is licensed under the MIT License — see [LICENSE](LICENSE).
 
 `qdraw.py` is included as a dependency and retains its own Revised BSD License and copyright, held by Mark Newman.
+
+## Development Notes
+
+This project was built primarily through my own logic, problem-solving, and implementation. AI was used occasionally for hints, debugging assistance, and brainstorming approaches, while visual scaling and simulation tuning were refined through experimentation and trial and error.
+
+The goal of this project was to learn by designing and implementing the underlying mechanics myself.
