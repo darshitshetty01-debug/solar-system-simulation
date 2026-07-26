@@ -20,9 +20,9 @@ A simple simulation of the six classical planets (Mercury through Saturn) orbiti
 
 ## Running it
 
-\`\`\`bash
-python solar_system.py
-\`\`\`
+` ```bash `
+`python solar_system.py`
+` ``` `
 
 ## License
 
